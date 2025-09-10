@@ -26,7 +26,7 @@ It displays multiple-choice questions, lets the user select answers, and shows t
 ---
 
 ## 🌐 Live Demo
-[Click here to view the project](https://your-username.github.io/quiz-app/)
+[Click here to view the project](https://junaid691.github.io/quiz-app/)
 
 ---
 
