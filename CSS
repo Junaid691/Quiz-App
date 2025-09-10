@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #e0f2fe;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.quiz-container {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  text-align: center;
+  width: 300px;
+}
+#answers {
+  display: flex;
+  flex-direction: column;
+  margin: 15px 0;
+}
+button {
+  padding: 8px;
+  margin-top: 10px;
+  cursor: pointer;
+}
